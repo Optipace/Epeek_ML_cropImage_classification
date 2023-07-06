@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24061413105",
+    "project_id": "mlplantdetection",
+    "storage_bucket": "mlplantdetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24061413105:android:dfa87291b3a2fb7e6b4b50",
+        "android_client_info": {
+          "package_name": "com.example.ml_plant_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24061413105-mnmc01iv05mq00ujgtakicpa7alde37s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX_d5bv91HMjB9Xl2bDgJ6yKKVrt4atSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24061413105-mnmc01iv05mq00ujgtakicpa7alde37s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
